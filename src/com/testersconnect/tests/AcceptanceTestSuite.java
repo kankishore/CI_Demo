@@ -16,5 +16,8 @@ public class AcceptanceTestSuite {
 		System.out.println("Executing Test2");
 	}
 	
-	
+	@Test
+	public void test3() {
+		System.out.println("Executing Test3");
+	}
 }
